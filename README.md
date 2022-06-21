@@ -3,9 +3,9 @@ project 'Solving Societal Health Challenges with Data Science'
 
 This is the readme file for our SciModeler dashboard.
 
-Following will be the steps how you should use our dashboard.
+Following will be the steps how you should use the SciModeler dashboard:
 
-1. Before staring with the dashboard, you need Neo4j. Download the Neo4j desktop if you don't have it yet(https://neo4j.com/download/).
+1. Before you can start using the dashboard, you need Neo4j. Download the Neo4j desktop if you don't have it yet(https://neo4j.com/download/).
 
 2. In Neo4j, creat a new project with a local DMBS, add the .cypher files from annotated articles as the database. When you create the local DMBS, you need to set a password,
 and this password will be used later.
