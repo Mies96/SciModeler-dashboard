@@ -15,7 +15,7 @@ connected as user neo4j to bolt://localhost:7687
 
 4. In the python code, change the username and password in the auth parameter in the graph.run function to your own username and password of Neo4j.
 
-5. Run the python code file on your jupyterhub in Google Chrome, you need to install the libraries that are used in the python code(!pip install py2neo to install py2neo library for example).
+5. Run the python code file on your jupyterhub, you need to install the libraries that are used in the python code(!pip install py2neo to install py2neo library for example).
 
 6. In the output you will see the address of the localhost of our dashboard, click it to open a new webpage and welcome to our dashboard!
 
